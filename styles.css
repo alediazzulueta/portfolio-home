@@ -1,0 +1,47 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+nav {
+  padding: 4px;
+}
+
+.nav-list {
+  text-align: right;
+}
+
+.mr-auto {
+  margin-right: auto!important;
+}
+
+.header-logo {
+  text-align: left;
+}
+
+.welcome-section {
+  margin-top: 16px;
+}
+
+.container {
+  max-width: 1800px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 30px
+}
+
+
+.background-cover {
+  background-color: red;
+}
+
+body {
+   background-image: url("paint.jpg");
+}
